@@ -1,1 +1,4 @@
-
+- set qc
+- làm ảnh sale 25.02
+- xem lại power bi.
+- 
