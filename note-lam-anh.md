@@ -1,0 +1,4 @@
+- Ảnh sp phải to.
+- ảnh thông tin khác thì nhỏ hoặc bỏ đi.
+- phần giảm giá nhỏ quá thì tìm cái khác.
+- tối ưu chỗ trống.
