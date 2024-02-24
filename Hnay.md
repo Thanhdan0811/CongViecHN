@@ -1,4 +1,6 @@
 - set qc
 - làm ảnh sale 25.02
 - xem lại power bi.
-- 
+- practice python :
+- Exercism, Hackinscience and Practicepython
+- Adventofcode, Codewars, Python Morsels 
